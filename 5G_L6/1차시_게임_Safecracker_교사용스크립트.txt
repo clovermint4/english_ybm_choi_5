@@ -1,0 +1,249 @@
+# 🔐 5학년 6단원 [1차시] Safecracker Game — 교사용 스크립트
+
+> **주제**: 여름방학에 할 일 (`What will you do this summer? / I will ~.`)
+
+> **게임 방식**: 학생은 공책에 문제 번호 1~10을 적습니다. 교사가 아래 문장을 **순서대로** 읽으면, 학생은 해당하는 그림을 찾아 그림 아래 번호를 적습니다. 그 번호들이 모여 금고 비밀번호(코드)가 됩니다.
+
+> 각 문장은 두세 번 반복해 읽어 주세요. 한 문제가 끝나면 정답 코드 박스를 클릭해 금고를 엽니다.
+
+> **사용 어구(6개)**: go to a science camp(과학 캠프에 가다) · go to the beach(해변에 가다) · go to the library(도서관에 가다) · read many books(많은 책을 읽다) · visit my cousin(사촌을 방문하다) · make a robot(로봇을 만들다)
+
+---
+
+
+## ⭐ LEVEL 1
+
+### 문제 #1  (선택지 4개)  →  정답 코드: **314**
+
+**화면 그림 배치**
+
+| 번호 | 어구 | 뜻 |
+|------|------|-----|
+| 1 | go to the beach | 해변에 가다 |
+| 2 | read many books | 많은 책을 읽다 |
+| 3 | visit my cousin | 사촌을 방문하다 |
+| 4 | go to a science camp | 과학 캠프에 가다 |
+
+**교사가 읽어줄 순서** (이 순서대로 읽으면 코드가 완성됩니다)
+
+1. "I will visit my cousin."  → 그림 **3번** (사촌을 방문하다)
+2. "I will go to the beach."  → 그림 **1번** (해변에 가다)
+3. "I will go to a science camp."  → 그림 **4번** (과학 캠프에 가다)
+
+➡️ 학생이 적는 코드: **314**
+
+### 문제 #2  (선택지 4개)  →  정답 코드: **241**
+
+**화면 그림 배치**
+
+| 번호 | 어구 | 뜻 |
+|------|------|-----|
+| 1 | make a robot | 로봇을 만들다 |
+| 2 | go to the library | 도서관에 가다 |
+| 3 | go to the beach | 해변에 가다 |
+| 4 | read many books | 많은 책을 읽다 |
+
+**교사가 읽어줄 순서** (이 순서대로 읽으면 코드가 완성됩니다)
+
+1. "I will go to the library."  → 그림 **2번** (도서관에 가다)
+2. "I will read many books."  → 그림 **4번** (많은 책을 읽다)
+3. "I will make a robot."  → 그림 **1번** (로봇을 만들다)
+
+➡️ 학생이 적는 코드: **241**
+
+
+## ⭐ LEVEL 2
+
+### 문제 #3  (선택지 6개)  →  정답 코드: **5263**
+
+**화면 그림 배치**
+
+| 번호 | 어구 | 뜻 |
+|------|------|-----|
+| 1 | go to a science camp | 과학 캠프에 가다 |
+| 2 | go to the beach | 해변에 가다 |
+| 3 | go to the library | 도서관에 가다 |
+| 4 | read many books | 많은 책을 읽다 |
+| 5 | visit my cousin | 사촌을 방문하다 |
+| 6 | make a robot | 로봇을 만들다 |
+
+**교사가 읽어줄 순서** (이 순서대로 읽으면 코드가 완성됩니다)
+
+1. "I will visit my cousin."  → 그림 **5번** (사촌을 방문하다)
+2. "I will go to the beach."  → 그림 **2번** (해변에 가다)
+3. "I will make a robot."  → 그림 **6번** (로봇을 만들다)
+4. "I will go to the library."  → 그림 **3번** (도서관에 가다)
+
+➡️ 학생이 적는 코드: **5263**
+
+### 문제 #4  (선택지 6개)  →  정답 코드: **3146**
+
+**화면 그림 배치**
+
+| 번호 | 어구 | 뜻 |
+|------|------|-----|
+| 1 | make a robot | 로봇을 만들다 |
+| 2 | visit my cousin | 사촌을 방문하다 |
+| 3 | read many books | 많은 책을 읽다 |
+| 4 | go to the library | 도서관에 가다 |
+| 5 | go to the beach | 해변에 가다 |
+| 6 | go to a science camp | 과학 캠프에 가다 |
+
+**교사가 읽어줄 순서** (이 순서대로 읽으면 코드가 완성됩니다)
+
+1. "I will read many books."  → 그림 **3번** (많은 책을 읽다)
+2. "I will make a robot."  → 그림 **1번** (로봇을 만들다)
+3. "I will go to the library."  → 그림 **4번** (도서관에 가다)
+4. "I will go to a science camp."  → 그림 **6번** (과학 캠프에 가다)
+
+➡️ 학생이 적는 코드: **3146**
+
+
+## ⭐ LEVEL 3
+
+### 문제 #5  (선택지 6개)  →  정답 코드: **51624**
+
+**화면 그림 배치**
+
+| 번호 | 어구 | 뜻 |
+|------|------|-----|
+| 1 | go to a science camp | 과학 캠프에 가다 |
+| 2 | go to the library | 도서관에 가다 |
+| 3 | visit my cousin | 사촌을 방문하다 |
+| 4 | go to the beach | 해변에 가다 |
+| 5 | read many books | 많은 책을 읽다 |
+| 6 | make a robot | 로봇을 만들다 |
+
+**교사가 읽어줄 순서** (이 순서대로 읽으면 코드가 완성됩니다)
+
+1. "I will read many books."  → 그림 **5번** (많은 책을 읽다)
+2. "I will go to a science camp."  → 그림 **1번** (과학 캠프에 가다)
+3. "I will make a robot."  → 그림 **6번** (로봇을 만들다)
+4. "I will go to the library."  → 그림 **2번** (도서관에 가다)
+5. "I will go to the beach."  → 그림 **4번** (해변에 가다)
+
+➡️ 학생이 적는 코드: **51624**
+
+### 문제 #6  (선택지 6개)  →  정답 코드: **36152**
+
+**화면 그림 배치**
+
+| 번호 | 어구 | 뜻 |
+|------|------|-----|
+| 1 | go to the library | 도서관에 가다 |
+| 2 | go to a science camp | 과학 캠프에 가다 |
+| 3 | make a robot | 로봇을 만들다 |
+| 4 | go to the beach | 해변에 가다 |
+| 5 | read many books | 많은 책을 읽다 |
+| 6 | visit my cousin | 사촌을 방문하다 |
+
+**교사가 읽어줄 순서** (이 순서대로 읽으면 코드가 완성됩니다)
+
+1. "I will make a robot."  → 그림 **3번** (로봇을 만들다)
+2. "I will visit my cousin."  → 그림 **6번** (사촌을 방문하다)
+3. "I will go to the library."  → 그림 **1번** (도서관에 가다)
+4. "I will read many books."  → 그림 **5번** (많은 책을 읽다)
+5. "I will go to a science camp."  → 그림 **2번** (과학 캠프에 가다)
+
+➡️ 학생이 적는 코드: **36152**
+
+
+## ⭐ LEVEL 4
+
+### 문제 #7  (선택지 6개)  →  정답 코드: **35162**
+
+**화면 그림 배치**
+
+| 번호 | 어구 | 뜻 |
+|------|------|-----|
+| 1 | go to the beach | 해변에 가다 |
+| 2 | visit my cousin | 사촌을 방문하다 |
+| 3 | make a robot | 로봇을 만들다 |
+| 4 | go to a science camp | 과학 캠프에 가다 |
+| 5 | go to the library | 도서관에 가다 |
+| 6 | read many books | 많은 책을 읽다 |
+
+**교사가 읽어줄 순서** (이 순서대로 읽으면 코드가 완성됩니다)
+
+1. "I will make a robot."  → 그림 **3번** (로봇을 만들다)
+2. "I will go to the library."  → 그림 **5번** (도서관에 가다)
+3. "I will go to the beach."  → 그림 **1번** (해변에 가다)
+4. "I will read many books."  → 그림 **6번** (많은 책을 읽다)
+5. "I will visit my cousin."  → 그림 **2번** (사촌을 방문하다)
+
+➡️ 학생이 적는 코드: **35162**
+
+### 문제 #8  (선택지 6개)  →  정답 코드: **462513**
+
+**화면 그림 배치**
+
+| 번호 | 어구 | 뜻 |
+|------|------|-----|
+| 1 | go to a science camp | 과학 캠프에 가다 |
+| 2 | go to the library | 도서관에 가다 |
+| 3 | visit my cousin | 사촌을 방문하다 |
+| 4 | go to the beach | 해변에 가다 |
+| 5 | read many books | 많은 책을 읽다 |
+| 6 | make a robot | 로봇을 만들다 |
+
+**교사가 읽어줄 순서** (이 순서대로 읽으면 코드가 완성됩니다)
+
+1. "I will go to the beach."  → 그림 **4번** (해변에 가다)
+2. "I will make a robot."  → 그림 **6번** (로봇을 만들다)
+3. "I will go to the library."  → 그림 **2번** (도서관에 가다)
+4. "I will read many books."  → 그림 **5번** (많은 책을 읽다)
+5. "I will go to a science camp."  → 그림 **1번** (과학 캠프에 가다)
+6. "I will visit my cousin."  → 그림 **3번** (사촌을 방문하다)
+
+➡️ 학생이 적는 코드: **462513**
+
+
+## ⭐ LEVEL 5
+
+### 문제 #9  (선택지 6개)  →  정답 코드: **251463**
+
+**화면 그림 배치**
+
+| 번호 | 어구 | 뜻 |
+|------|------|-----|
+| 1 | make a robot | 로봇을 만들다 |
+| 2 | read many books | 많은 책을 읽다 |
+| 3 | go to the beach | 해변에 가다 |
+| 4 | visit my cousin | 사촌을 방문하다 |
+| 5 | go to a science camp | 과학 캠프에 가다 |
+| 6 | go to the library | 도서관에 가다 |
+
+**교사가 읽어줄 순서** (이 순서대로 읽으면 코드가 완성됩니다)
+
+1. "I will read many books."  → 그림 **2번** (많은 책을 읽다)
+2. "I will go to a science camp."  → 그림 **5번** (과학 캠프에 가다)
+3. "I will make a robot."  → 그림 **1번** (로봇을 만들다)
+4. "I will visit my cousin."  → 그림 **4번** (사촌을 방문하다)
+5. "I will go to the library."  → 그림 **6번** (도서관에 가다)
+6. "I will go to the beach."  → 그림 **3번** (해변에 가다)
+
+➡️ 학생이 적는 코드: **251463**
+
+### 문제 #10  (선택지 6개)  →  정답 코드: **615243**
+
+**화면 그림 배치**
+
+| 번호 | 어구 | 뜻 |
+|------|------|-----|
+| 1 | go to a science camp | 과학 캠프에 가다 |
+| 2 | go to the beach | 해변에 가다 |
+| 3 | go to the library | 도서관에 가다 |
+| 4 | read many books | 많은 책을 읽다 |
+| 5 | visit my cousin | 사촌을 방문하다 |
+| 6 | make a robot | 로봇을 만들다 |
+
+**교사가 읽어줄 순서** (이 순서대로 읽으면 코드가 완성됩니다)
+
+1. "I will make a robot."  → 그림 **6번** (로봇을 만들다)
+2. "I will go to a science camp."  → 그림 **1번** (과학 캠프에 가다)
+3. "I will visit my cousin."  → 그림 **5번** (사촌을 방문하다)
+4. "I will go to the beach."  → 그림 **2번** (해변에 가다)
+5. "I will read many books."  → 그림 **4번** (많은 책을 읽다)
+6. "I will go to the library."  → 그림 **3번** (도서관에 가다)
+
+➡️ 학생이 적는 코드: **615243**
